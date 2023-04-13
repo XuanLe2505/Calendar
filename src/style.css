@@ -1,0 +1,29 @@
+* {
+  font-family: "Source Han Sans JP", sans-serif;
+  font-size: 14px;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+:root {
+  --white-gray: #F0F2F7;
+  --white: #FFFFFF;
+  --dark-gray: #3D4753;
+  --rock-blue: #98A6B5;
+  --light-gray: #D9DCE3;
+  --red: #FF0000;
+  --light-black: #1B2330;
+  --black: #000000;
+  --blue: #1E57B4;
+}
+
+button {
+  background-color: #fff;
+  border: none;
+}
